@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html{
+    background-color: #fff;
+    color: #555;
+    font-family: 'lato', 'arial';
+    font-size: 20px;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+    
+    
+}
